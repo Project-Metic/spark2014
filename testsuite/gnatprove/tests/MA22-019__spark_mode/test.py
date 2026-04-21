@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gnatprove, clean
 
 gnatprove(opt=["-P", "test.gpr", "--mode=flow"])

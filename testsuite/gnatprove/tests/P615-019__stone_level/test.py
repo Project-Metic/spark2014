@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gnatprove
 
 gnatprove(opt=["-q", "-k", "-P", "check_fast.gpr", "--mode=check", "--output=oneline"])

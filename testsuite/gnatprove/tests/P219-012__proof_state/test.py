@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import sleep_on_windows, prove_all
 import shutil
 

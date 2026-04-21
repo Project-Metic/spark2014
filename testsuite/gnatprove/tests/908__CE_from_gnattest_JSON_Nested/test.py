@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import os
 from test_support import run_spark_for_gnattest_json
 

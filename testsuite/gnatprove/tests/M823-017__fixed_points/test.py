@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 prove_all(prover=["altergo", "cvc5"], opt=["-u", "binary_fixed.adb"], steps=3600)

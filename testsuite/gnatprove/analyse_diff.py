@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 """A small script to check how a change to the proof system affects the
 number of discharged VCs.

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This file contains GDB pretty-printers for types used in flow analysis.
 # To enable them just add a line like this to your ~/.gdbinit:
 # source ~/adacore/spark2014/scripts/flowpp.py

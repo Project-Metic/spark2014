@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """
 This module contains support functions for the gnatprove testsuite
 

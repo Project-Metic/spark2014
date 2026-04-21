@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Helper script to compute statistics about checking counterexamples.
 

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 prove_all(opt=["--limit-line=test_if.ads:5:37:VC_OVERFLOW_CHECK"])

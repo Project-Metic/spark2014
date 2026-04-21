@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gcc, prove_all
 
 gcc("global_illegal.ads", opt=["-c", "-gnatf"])

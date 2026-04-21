@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from subprocess import call
 
 # Directly use CALL from python, because our GNATPROVE routine adds "-k"

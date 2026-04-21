@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import spark_install_path
 from e3.os.process import Run
 from e3.env import Env

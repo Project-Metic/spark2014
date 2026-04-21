@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 """
 This script will first do a git diff, then inspect it and then try to open

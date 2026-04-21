@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from glob import glob
 from test_support import cat, flow_gg
 

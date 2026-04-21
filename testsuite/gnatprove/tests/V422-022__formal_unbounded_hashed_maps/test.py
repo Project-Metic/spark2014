@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from subprocess import call
 from test_support import prove_all, gprbuild
 

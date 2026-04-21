@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import os.path
 from test_support import cat, prove_all
 

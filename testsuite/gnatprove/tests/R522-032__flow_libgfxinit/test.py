@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import do_flow
 
 # ??? after closing the TN the --mode=flow should be removed while

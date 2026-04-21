@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import do_flow_only
 
 # proof crashes on possible aliased parameters (O303-015)

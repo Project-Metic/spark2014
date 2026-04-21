@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """Alternate Ada and Project Files parsers for Sphinx/Rest."""
 
 import re

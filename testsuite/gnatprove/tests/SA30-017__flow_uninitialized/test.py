@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import do_flow
 
 # Proof checks are intentionally disabled, because they distract from the

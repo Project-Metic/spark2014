@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # -*- coding: utf-8 -*-
 #
 # SPARK 2014 User's Guide documentation build configuration file,

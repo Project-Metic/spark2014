@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 print("===== --config without existing file should fail =======")

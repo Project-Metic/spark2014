@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # -*- coding: utf-8 -*-
 #
 # SPARK Booklet documentation build configuration file, created by

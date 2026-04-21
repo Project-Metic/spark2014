@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from e3.os.process import Run
 from test_support import prove_all
 

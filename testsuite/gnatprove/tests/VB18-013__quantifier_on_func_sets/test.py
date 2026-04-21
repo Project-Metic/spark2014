@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from subprocess import run
 from test_support import TESTDIR
 import os

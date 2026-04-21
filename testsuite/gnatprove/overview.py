@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Small script to print a count the tests in the testsuite, including large
 # tests, totals of skipped and xfailed tests, by platform.

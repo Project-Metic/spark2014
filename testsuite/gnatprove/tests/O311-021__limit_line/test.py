@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 prove_all(opt=["--limit-subp=oper.ads:3", "--limit-line=oper-float_sub.adb:4"])

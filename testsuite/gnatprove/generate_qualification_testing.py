@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Helper script to generate the testing data for qualification of SPARK
 # Usage: ./generate_qualification_testing.py > output_file

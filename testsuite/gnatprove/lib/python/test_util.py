@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 """
 This module contains utility functions for both the testsuite and running
 GNATprove on examples in the User's Guide.

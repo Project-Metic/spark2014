@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gnatprove, ls, prove_all
 
 prove_all(cache_allowed=False)

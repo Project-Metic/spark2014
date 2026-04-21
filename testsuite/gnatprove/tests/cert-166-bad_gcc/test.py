@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all, is_windows_platform, TESTDIR
 import os
 import sys

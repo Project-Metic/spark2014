@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import do_flow, prove_all
 
 do_flow(opt=["-u", "bad_spec.ads"])

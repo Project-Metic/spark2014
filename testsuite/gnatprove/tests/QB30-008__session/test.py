@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import os.path
 from test_support import prove_all, spark_install_path
 from subprocess import call

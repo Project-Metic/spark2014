@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 """
 Processes a JUnit XML file to check if all successful test cases

@@ -1,4 +1,5 @@
 #!/bin/sh
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 OPAMDIR=$HOME/.sparkopam
 OPAMROOT=$OPAMDIR/root

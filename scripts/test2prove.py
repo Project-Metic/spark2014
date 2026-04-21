@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # This script calls gnattest on an ADA subprogram to generate test cases
 # then feed them to gnatprove for it to try to use them as CE values.
 

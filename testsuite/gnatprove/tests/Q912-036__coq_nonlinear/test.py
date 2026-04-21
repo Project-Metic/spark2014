@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 # This test follows the same pattern as P429-031__coq_change which is heavily

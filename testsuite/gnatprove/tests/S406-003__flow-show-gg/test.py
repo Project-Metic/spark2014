@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from glob import glob
 import json
 from test_support import flow_gg

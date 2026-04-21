@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import check_output_file, clean, do_flow, prove_all
 
 do_flow()

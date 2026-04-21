@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import check_output_file, prove_all
 
 # Do not use Z3, as the step limit fluctuates too much between platforms, thus

@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import grep, prove_all, sleep, touch
 import os.path
 import shutil

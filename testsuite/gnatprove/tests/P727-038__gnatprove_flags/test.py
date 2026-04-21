@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gnatprove
 
 # This test is intended to clarify how -u and -U work.

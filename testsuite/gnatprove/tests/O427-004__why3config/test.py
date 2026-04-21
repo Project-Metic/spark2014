@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 import subprocess
 import os.path
 from test_support import grep, spark_install_path

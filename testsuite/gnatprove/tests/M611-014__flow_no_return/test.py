@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import do_flow
 
 # run GNATprove separately on failing input foo.adb ...

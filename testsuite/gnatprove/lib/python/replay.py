@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from abc import abstractmethod
 import argparse
 import glob

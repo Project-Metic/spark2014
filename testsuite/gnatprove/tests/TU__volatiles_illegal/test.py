@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import gcc
 
 gcc("volatiles_illegal_1.adb", opt=["-c", "-gnatf"])

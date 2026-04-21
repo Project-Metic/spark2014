@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import prove_all
 
 # Do not run with Z3 (P212-018) until deterministic on all platforms

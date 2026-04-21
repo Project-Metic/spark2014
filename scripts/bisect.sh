@@ -1,4 +1,5 @@
 #!/bin/sh
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # This script is useful to bisect the spark2014 repo under the following assumptions:
 # - An identified test fails with DIFF output on HEAD and doesn't fail n

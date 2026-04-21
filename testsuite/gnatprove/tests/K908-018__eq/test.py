@@ -1,3 +1,4 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 from test_support import check_all_spark, prove_all, sleep_on_windows
 import os.path
 
