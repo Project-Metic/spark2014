@@ -18,7 +18,7 @@ permissions:
 jobs:
   release-please:
     name: Release Please
-    runs-on: magnon-enterprise-runners
+    runs-on: magnon-enterprise-runners-metic
     timeout-minutes: 15
     steps:
       - name: Release Please
